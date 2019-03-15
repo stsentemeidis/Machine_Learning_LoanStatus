@@ -1,5 +1,5 @@
 ID;loan_amnt;term;int_rate;installment;emp_length;home_ownership;annual_inc;purpose;title;STATE;delinq_2yrs;revol_bal;revol_util;total_pymnt;loan_status
-1;5000; 36 months;10.65%;162.87;10+ years;RENT;24000;credit_card;Computer;AZ;0;13648;0.84;5863.155187;1
+1;5000; 36 months;10.65%;162.87;10+ years;RENT;24000;credit_card;Computer;AZ;0;13648;0.84;5863.155187;0
 3;2400; 36 months;15.96%;84.33;10+ years;RENT;12252;small_business;real estate business;IL;0;2956;0.99;3005.666844;1
 9;5600; 60 months;21.28%;152.39;4 years;OWN;40000;small_business;Expand Business & Buy Debt Portfolio;CA;0;5210;0.33;647.5;1
 13;9000; 36 months;13.49%;305.38;< 1 year;RENT;30000;debt_consolidation;freedom;VA;0;10452;0.92;2277.32;1
